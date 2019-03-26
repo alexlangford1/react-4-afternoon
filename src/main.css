@@ -81,3 +81,14 @@ a {
   width: 60%;
   margin: 0 auto;
 }
+
+button {
+  padding: 15px;
+  border-radius: 30px;
+  background: #143A56;
+  color: white;
+  border: none;
+  font-size: 15px;
+
+
+}
